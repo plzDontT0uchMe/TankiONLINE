@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\mikk1\downloads\хоккей\tankiserver\tankiserver\source.cpp(67): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\mikk1\downloads\хоккей\tankiserver\tankiserver\source.cpp(68): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\mikk1\downloads\хоккей\tankiserver\tankiserver\source.cpp(552): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\mikk1\downloads\хоккей\tankiserver\tankiserver\source.cpp(772): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  TankiServer.vcxproj -> C:\Users\mikk1\Downloads\Хоккей\TankiServer\x64\Debug\TankiServer.exe
